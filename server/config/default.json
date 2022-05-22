@@ -1,3 +1,4 @@
 {
-  "serverPort": "5000"
+  "serverPort": "5000",
+  "dbUrl": "mongodb+srv://alex:mongoDB2022@cloud.pwxqn.mongodb.net/cloud?retryWrites=true&w=majority"
 }
